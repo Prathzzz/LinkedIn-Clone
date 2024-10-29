@@ -38,4 +38,8 @@ Install Dependencies:
 Run the Application:
 
     npm start
-![Demo]
+
+#DEMO
+![Demo](bio.gif)
+![Demo](req.gif)
+![Demo](post.gif)
