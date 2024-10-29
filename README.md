@@ -17,4 +17,15 @@ This LinkedIn Clone is a full-featured social networking web application built w
 • Database: MongoDB for managing user data and posts.
 • Authentication: JWT (JSON Web Tokens) for secure login and session management.
 
+# Getting Started
+Clone the Repository:
+
+    git clone https://github.com/Prathzzz/Linkedin-Clone.git
+Install Dependencies:
+
+    cd Linkedin-Clone
+    npm install
+Run the Application:
+
+    npm start
 ![Demo]
