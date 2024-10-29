@@ -1,6 +1,8 @@
 # LinkedIn Clone - MERN Stack Project
 This LinkedIn Clone is a full-featured social networking web application built with the MERN stack (MongoDB, Express.js, React, Node.js). Designed to simulate core functionalities of LinkedIn, this project allows users to connect, share, and engage with one another.
 
+![Demo](req.gif)
+
 # Features 
 • User Registration: New users can create an account, with verification emails sent for security.
 
@@ -37,12 +39,22 @@ Install Dependencies:
     npm install
 Run the Application:
 
+Connect backend:
+    
+    cd api
+    npm install
+    npm start
+
+Connect frontend: 
+    
+    cd app
+    npm install
     npm start
 
 # DEMO
 
 ![Demo](bio.gif)
 
-![Demo](req.gif)
+
 
 ![Demo](post.gif)
